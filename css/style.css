@@ -67,9 +67,11 @@ footer, header, hgroup, menu, nav, section {
 ::-webkit-selection {
 	background: #000000; /* Safari,Chrome ----------- */
 }
-/**/
+
+/* Global Styles ----------- */
 
 
+/* Section Specific Styles ----------- */
 
 
 /* Responsive Styles With CSS3 Media Queries ----------- */
