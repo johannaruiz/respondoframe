@@ -60,10 +60,10 @@ footer, header, hgroup, menu, nav, section {
 
 /* Selection Styles */
 ::selection {
-	background: #999999; /* Safari */
+	background: #000000; /* Safari */
 	}
 ::-moz-selection {
-	background: #999999; /* Firefox */
+	background: #000000; /* Firefox */
 ::-webkit-selection {
-	background: #999999; /* Safari,Chrome */
+	background: #000000; /* Safari,Chrome */
 }
