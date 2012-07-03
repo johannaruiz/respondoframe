@@ -57,3 +57,13 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
     display: block;
 }
+
+/* Selection Styles */
+::selection {
+	background: #999999; /* Safari */
+	}
+::-moz-selection {
+	background: #999999; /* Firefox */
+::-webkit-selection {
+	background: #999999; /* Safari,Chrome */
+}
